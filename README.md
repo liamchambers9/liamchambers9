@@ -1,5 +1,5 @@
 ### Hello, I'm Liam!
-### I'm a college student studying cybersecurity. I'm currently an active competitor in the NCL (National Cyber League) which is a defensive and offensive puzzle-based, capture-the-flag style cybersecurity competition. I'm also involved in various cybersecurity groups such as Cloud Security Alliance-Detroit, Greater Detroit ISC2 Chapter, and Michigan Hackers
+### I'm a college student studying cybersecurity. I'm currently an active competitor in the NCL (National Cyber League) which is a defensive and offensive puzzle-based, capture-the-flag style cybersecurity competition. I'm also involved in various cybersecurity groups such as Cloud Security Alliance-Detroit, Greater Detroit ISC2 Chapter, and the University of Michigan group- Michigan Hackers.
 <!--
 **liamchambers9/liamchambers9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
