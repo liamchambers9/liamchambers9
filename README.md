@@ -7,8 +7,6 @@ I have a strong passion for all things cybersecurity! 🔐 My interests include 
 Check out [My Projects](https://github.com/liamchambers9/My-Projects) and [My CTF Writeups](https://github.com/liamchambers9/CTFs) to learn more about my work in security and development.
 
 [LinkedIn profile](https://www.linkedin.com/in/liamchambers/) for professional work experience and education.
-
-You can reach me on my email - lchambers4383@gmail.com
 <!--
 **liamchambers9/liamchambers9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
