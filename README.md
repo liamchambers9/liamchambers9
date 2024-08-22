@@ -6,6 +6,8 @@ I am a Cybersecurity and Computer Science Student at [Eastern Michigan Universit
 
 I have a strong passion for all things cybersecurity! 🔐 My interests include building security tools using threats and vulnerability data, automating complex workflows, and researching vulnerabilities.  
 
+I use GitHub as a digital portfolio to showcase my personal projects and coursework.
+
 Check out [My Projects](https://github.com/liamchambers9/My-Projects) and [My CTF Writeups](https://github.com/liamchambers9/CTFs) to learn more about my work in security and development.
 
 [LinkedIn profile](https://www.linkedin.com/in/liamchambers/) for professional work experience and education.
