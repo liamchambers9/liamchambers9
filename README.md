@@ -2,7 +2,7 @@
  
   I’m Liam!
 
-I am a Cybersecurity and CS Student at [Eastern Michigan University](https://www.emich.edu/).
+I am a Cybersecurity Student at [Eastern Michigan University](https://www.emich.edu/).
 
 I have a strong passion for all things cybersecurity! 🔐 My interests include building security tools using threats and vulnerability data, automating complex workflows, and researching vulnerabilities.  
 
