@@ -1,6 +1,6 @@
- # Hi!
+ # Hey there!
  
-  I’m Liam!
+  I’m Liam.
 
 I am a Cybersecurity Student at [Eastern Michigan University](https://www.emich.edu/).
 
