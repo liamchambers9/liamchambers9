@@ -1,4 +1,4 @@
- # Welcome!
+ # Hi!
  
   I’m Liam!
 
@@ -7,7 +7,7 @@ I am a Cybersecurity Student at [Eastern Michigan University](https://www.emich.
 I'm using GitHub as a digital portfolio to showcase my personal projects and coursework.
 - 🔭 I’m currently working on portswigger offensive security labs
 - 🌱 I’m learning Python to automate complex workflows
-- 💬 Ask me about my journey I'd love to share what I'm planning for the future 
+- 💬 Ask me about my journey so far, I'd love to share what I'm planning for the future 
 
 [LinkedIn profile](https://www.linkedin.com/in/liamchambers/) for professional work experience and education.
 <!--
