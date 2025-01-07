@@ -9,7 +9,7 @@ I'm using GitHub as a digital portfolio to showcase my personal projects and cou
 - 🌱 I’m learning Python to automate complex workflows
 - 💬 Ask me about my journey so far, I'd love to share what I'm planning for the future 
 
-[LinkedIn profile](https://www.linkedin.com/in/liamchambers/) for professional work experience and education.
+[LinkedIn profile](https://www.linkedin.com/in/liamchambers/) for professional work experience and reaching out!
 <!--
 **liamchambers9/liamchambers9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
