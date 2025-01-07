@@ -4,11 +4,10 @@
 
 I am a Cybersecurity Student at [Eastern Michigan University](https://www.emich.edu/).
 
-I have a strong passion for all things cybersecurity! 🔐 My interests include building security tools using threats and vulnerability data, automating complex workflows, and researching vulnerabilities.  
-
-I use GitHub as a digital portfolio to showcase my personal projects and coursework.
-
-Check out [My Projects](https://github.com/liamchambers9?tab=repositories) and [How I'm learning Python](https://github.com/liamchambers9/LearningPythonForSecurity) to view more about my work in security and development.
+I'm using GitHub as a digital portfolio to showcase my personal projects and coursework.
+- 🔭 I’m currently working on portswigger offensive security labs
+- 🌱 I’m currently learning Python to automate complex workflows
+- 💬 Ask me about my journey I'd love to share what I'm planning for the future 
 
 [LinkedIn profile](https://www.linkedin.com/in/liamchambers/) for professional work experience and education.
 <!--
