@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏽, I'm Liam Chambers</h1>
+<h1 align="center">Hi 👋, I'm Liam Chambers</h1>
 
 I am a Cybersecurity Student at [Eastern Michigan University](https://www.emich.edu/).
 
