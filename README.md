@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Liam Chambers</h1>
 
-I am a Cybersecurity Student at [Eastern Michigan University](https://www.emich.edu/).
+I am a Cybersecurity Student at [Eastern Michigan University- Gameabove College of Engineering and Technology](https://www.emich.edu/cet/).
 
 I'm using GitHub and my [Blog](https://medium.com/@liam.chambers/) as a digital portfolio to showcase my personal projects and coursework.
 - 🔭 I’m currently working on portswigger offensive security labs
