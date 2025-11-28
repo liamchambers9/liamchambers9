@@ -6,7 +6,7 @@ I'm using GitHub to track the progress of my technical skill development.
 
 Currently I'm: 
 - 🌱 Leveraging Python to automate complex workflows
-- 🐋 Working on DevSecOps projects focusing on securing enterprises on the move at scale
+- 🐋 Working on DevSecOps projects focusing on securing enterprises at scale
 - 🔭 Discovering how I learn best in this world full of information 
 - 💬 Ask me about my current learning process, I'd love to share how I'm living out these ideas 
 
