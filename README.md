@@ -1,1 +1,26 @@
-# liamchambers9.
+<h1 align="center">Hi 👋, I'm Liam Chambers</h1>
+
+I'm currently a Security Engineer intern @Workiva and a cybersecurity student at [Eastern Michigan University- Gameabove College of Engineering and Technology](https://www.emich.edu/cet/).
+
+I'm using GitHub to track the progress of my technical skill development.
+
+Currently I'm: 
+- 🌱 Leveraging Python to automate complex workflows
+- 🐋 Working on DevSecOps projects focusing on securing enterprises on the move at scale
+- 🔭 Discovering how I learn best in this world full of information 
+- 💬 Ask me about my current learning process, I'd love to share how I'm living out these ideas 
+
+<!--
+**liamchambers9/liamchambers9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
